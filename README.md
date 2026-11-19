@@ -1,4 +1,6 @@
-# 🎧 Meu Spotify com Spicetify
+# Meu Spotify com Spicetify
+
+**Português** · [English](README.en.md)
 
 O Spotify que eu uso no computador: tema translúcido, letras ao vivo e fundo que muda com a capa do álbum.
 Tudo instalado pelo **Spicetify**, sem mexer em código. Leva uns 5 minutos.
@@ -7,12 +9,12 @@ Tudo instalado pelo **Spicetify**, sem mexer em código. Leva uns 5 minutos.
 
 ## O que tem no meu setup
 
-| | Nome | O que faz |
+| Tipo | Nome | O que faz |
 |---|---|---|
-| 🎨 Tema | [Hazy](https://github.com/Astromations/Hazy) | visual translúcido, com a capa do álbum desfocada no fundo |
-| 🎤 Extensão | [Beautiful Lyrics](https://github.com/surfbryce/beautiful-lyrics) | letras sincronizadas palavra por palavra, com fundo dinâmico |
-| 🎤 Extensão | [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics) | outra tela de letras ao vivo, em tela cheia |
-| 🎨 Extensão | [SpicyThemes](https://github.com/7xeh/SpicyThemes) | temas para a tela do Spicy Lyrics |
+| Tema | [Hazy](https://github.com/Astromations/Hazy) | visual translúcido, com a capa do álbum desfocada no fundo |
+| Extensão | [Beautiful Lyrics](https://github.com/surfbryce/beautiful-lyrics) | letras sincronizadas palavra por palavra, com fundo dinâmico |
+| Extensão | [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics) | outra tela de letras ao vivo, em tela cheia |
+| Extensão | [SpicyThemes](https://github.com/7xeh/SpicyThemes) | temas para a tela do Spicy Lyrics |
 
 ## Passo a passo (Windows)
 
@@ -69,16 +71,3 @@ spicetify restore
 - O Spicetify **não é oficial** do Spotify. Ele modifica só o aplicativo no seu computador; a conta e as playlists não mudam.
 - Os temas e as extensões são feitos por outras pessoas (links na tabela acima). Os créditos são delas.
 - Documentação oficial: [spicetify.app](https://spicetify.app).
-
----
-
-<details>
-<summary><b>🇬🇧 English</b></summary>
-
-My desktop Spotify setup with [Spicetify](https://spicetify.app): the **Hazy** theme plus **Beautiful Lyrics**, **Spicy Lyrics** and **SpicyThemes**.
-Install Spotify from spotify.com (not the Microsoft Store), run
-`iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex` in PowerShell, say yes to Marketplace,
-then install the theme and extensions from the new **Marketplace** tab. After a Spotify update: `spicetify update` and
-`spicetify backup apply`. To undo everything: `spicetify restore`. Follow me on
-[Spotify](https://open.spotify.com/user/31ilerrhi3kodpoigqprs65xdrz4).
-</details>
