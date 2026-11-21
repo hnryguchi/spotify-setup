@@ -71,3 +71,7 @@ spicetify restore
 - O Spicetify **não é oficial** do Spotify. Ele modifica só o aplicativo no seu computador; a conta e as playlists não mudam.
 - Os temas e as extensões são feitos por outras pessoas (links na tabela acima). Os créditos são delas.
 - Documentação oficial: [spicetify.app](https://spicetify.app).
+
+---
+
+> © Henry Noguchi. **Todos os direitos reservados.** Repositório público só para leitura; copiar, reutilizar ou apresentar como próprio exige autorização. Ver [LICENSE](LICENSE).
